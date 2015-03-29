@@ -1,2 +1,2 @@
-# microelectronics
+# Microelectronics
 A collection of code created for my microelectronics projects
